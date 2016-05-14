@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="System Core">
+</Property><Property Name="Solution File" Value="C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\System Core.sln">
+</Property><Property Name="User Options File" Value="C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\System Core.suo">
+</Property><Property Name="Date" Value="jueves, 12 de mayo de 2016">
+</Property><Property Name="Time" Value="22:37 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="System Core.sln" Description="File successfully backed up as C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\System Core.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="System Core.suo" Description="File successfully backed up as C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\System Core.suo.old">
+</Event><Event ErrorLevel="0" Project="Kernel" Source="Kernel\Kernel.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Kernel" Source="Kernel\Kernel.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Kernel" Source="Kernel\Kernel.vcproj" Description="Project file successfully backed up as 'C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\Kernel\Kernel.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Kernel" Source="Kernel\Kernel.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Kernel" Source="Kernel\Kernel.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib\Lib.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Lib" Source="Lib\Lib.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib\Lib.vcproj" Description="Project file successfully backed up as 'C:\Users\so1\Downloads\Demo6_1\Demo6\SysCore\Lib\Lib.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib\Lib.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Lib" Source="Lib\Lib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="System Core.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="System Core.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+// cerrno standard header
+
+#ifndef _CSTDINT_
+#define _CSTDINT_
+#include <stdint.h>
+#include <cstdint>  // C++ only
+
+#endif /* _CSTDINT_ */
+
+
