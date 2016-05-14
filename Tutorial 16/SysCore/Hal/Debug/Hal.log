@@ -1,0 +1,29 @@
+﻿Build started 10/05/2016 09:47:21 p.m..
+     1>Project "C:\Documents and Settings\Jorge Fernandez\Desktop\Sistemas Operativos I\2016-ii-1272-so1-osdevseries-jorgefer00\tutorial16\SysCore\Hal\Hal.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Hal.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Include\ /Zi /nologo /W4 /WX- /O2 /Oy /D ARCH_X86 /D _DEBUG /X /Gm- /MD /Zp1 /GS- /fp:precise /Zc:wchar_t /Zc:forScope /GR- /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cpu.cpp gdt.cpp Hal.cpp idt.cpp pic.cpp pit.cpp
+         cpu.cpp
+         gdt.cpp
+         Hal.cpp
+         idt.cpp
+         pic.cpp
+         pit.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Documents and Settings\Jorge Fernandez\Desktop\Sistemas Operativos I\2016-ii-1272-so1-osdevseries-jorgefer00\tutorial16\SysCore\Debug\Hal.lib" /NOLOGO Debug\cpu.obj
+         Debug\gdt.obj
+         Debug\Hal.obj
+         Debug\idt.obj
+         Debug\pic.obj
+         Debug\pit.obj
+         Hal.vcxproj -> C:\Documents and Settings\Jorge Fernandez\Desktop\Sistemas Operativos I\2016-ii-1272-so1-osdevseries-jorgefer00\tutorial16\SysCore\Debug\Hal.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Hal.unsuccessfulbuild".
+         Touching "Debug\Hal.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Jorge Fernandez\Desktop\Sistemas Operativos I\2016-ii-1272-so1-osdevseries-jorgefer00\tutorial16\SysCore\Hal\Hal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
